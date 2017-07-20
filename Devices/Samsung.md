@@ -20,4 +20,6 @@
   16. Swipe to flash.
   17. Reboot.
   18. Done! Enjoy your rooted device!
-   _This page was created by Sn0wtK_
+  
+  
+  _This page was created by Sn0wtK_
