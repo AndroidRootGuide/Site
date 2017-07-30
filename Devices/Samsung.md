@@ -7,7 +7,7 @@
   4. Look for your device. Be specific. For example the Tab S 10.5 has two models t800 (chagallwifi) and t805 (chagalllte).
   5. Open Odin. You will see in the left side of the program four sections, select the option AP.
 # Guide
-  6. Select the TWRP Tar.md5 file and click begin. *This is the LAST TIME to keep your _warranty_ which means there will be no going back here*
+   6. Select the TWRP Tar.md5 file and click begin. *This is the LAST TIME to keep your _warranty_ which means there will be no going back here* (This is also the spot with the strongest chance of a *_BRICK_*
   7. Your device will reboot.
   8. Fire up Chrome and head to this site. http://www.supersu.com/download
   9. Download the LATEST FLASHIBLE ZIP.
@@ -22,4 +22,4 @@
   18. Done! Enjoy your rooted device!
   
   
-  _This page was created by Sn0wtK_
+  _This page was created by Sn0wtK._ AndroidGuide Team © 2017.
